@@ -75,6 +75,19 @@ This project is a comprehensive analysis of Kenyan YouTube channels, leveraging 
 
 - Built an interactive dashboard on Infogram for presenting the analysis results.
 
+
+# How to Use
+
+- Clone this repository.
+
+- Set up a virtual environment and install dependencies using the requirements.txt file.
+
+- Obtain YouTube API credentials and configure them in the project.
+
+-Run the data extraction and analysis scripts.
+
+- Explore the visualizations and dashboard for insights.
+
 # Achievements
 
 - Categorized Kenyan YouTube channels to provide insights into the local content creation landscape.
@@ -84,4 +97,12 @@ This project is a comprehensive analysis of Kenyan YouTube channels, leveraging 
 - Developed a reusable pipeline for extracting and analyzing YouTube data.
 
 - Delivered an interactive dashboard showcasing the analysis, accessible [here](https://infogram.com/analyzing-the-pulse-of-kenyan-youtube-1h984wvzdywyz2p).
+
+![image](https://github.com/user-attachments/assets/9d389c47-18be-403f-8a22-4ef574f55cfd)
+![image](https://github.com/user-attachments/assets/782a0af2-fa0c-4fe3-9be7-8ca96a6f60ab)
+![image](https://github.com/user-attachments/assets/2df71384-b64b-4390-8526-e9d87e1b7ca4)
+
+
+
+
 
